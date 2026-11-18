@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/alertas.db
+data/alertas.json
+logs/*.log
+logs/*.log.*
