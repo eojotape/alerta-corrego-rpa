@@ -50,4 +50,4 @@ Nenhum dado pessoal e coletado. Credenciais ficam em `.env` (ignorado pelo Git).
 Logs nao registram tokens.
 
 ## Links
-- Video: (preencher)
+- Video: ([Clique aqui](https://youtu.be/yWX_ZH5nX98))
